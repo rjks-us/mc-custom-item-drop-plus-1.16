@@ -1,0 +1,686 @@
+## The time after the last death is measured in seconds:
+## 1 minecraft Day is 20min so 1200 seconds
+## 10 minecraft Days are 200min so 12000 seconds
+## 50 minecraft Days are 1000min so 60000 seconds
+
+## From Day 0 to Day 10
+'0':
+  'pool-0':
+    drops: 2
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+  'pool-1':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+  'pool-2':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENCHANTED_GOLDEN_APPLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+  'pool-3':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+
+## From day 10 to day 50
+'12000':
+  'pool-0':
+    drops: 2
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_CARROT
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOAT_SPAWN_EGG
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_CARROT
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+  'pool-1':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GRASS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GOLDEN_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GREEN_DYE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ''
+  'pool-2':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: HOPPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: HORSE_SPAWN_EGG
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: HOPPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GUNPOWDER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GUNPOWDER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+  'pool-3':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: IRON_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: IRON_NUGGET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: IRON_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: INK_SAC
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: BLACK_STAINED_GLASS_PANE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+## From day 50 to day 100
+'60000':
+  'pool-0':
+    drops: 2
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: LAPIS_ORE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: LEATHER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: LEATHER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: LEATHER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GLOWSTONE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+  'pool-1':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_CHEST
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: FIREWORK_ROCKET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_CHEST
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: FIREWORK_ROCKET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: FIREWORK_ROCKET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+  'pool-2':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: FIREWORK_ROCKET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: GLASS_BOTTLE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: END_CRYSTAL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: EMERALD_ORE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ELYTRA
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+  'pool-3':
+    drops: 3
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ELYTRA
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: BLACK_STAINED_GLASS_PANE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ELYTRA
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_PEARL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_PEARL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+## From day 100 to 100+
+'120000':
+  'pool-0':
+    drops: 2
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_PEARL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_PEARL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_PEARL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_PEARL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 2567
+      type: ENDER_PEARL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: ' '
+    'pool-1':
+      drops: 3
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: ENDER_EYE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: ENDER_EYE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: ENDER_EYE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: BLACK_STAINED_GLASS_PANE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: ENDER_EYE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+    'pool-2':
+      drops: 3
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: BLACK_STAINED_GLASS_PANE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: DRAGON_BREATH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: DRAGON_BREATH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: BLACK_STAINED_GLASS_PANE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: DRAGON_BREATH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+    'pool-3':
+      drops: 3
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: ENCHANTING_TABLE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: BLACK_STAINED_GLASS_PANE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: ENCHANTING_TABLE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: BLACK_STAINED_GLASS_PANE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: ENCHANTING_TABLE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ' '

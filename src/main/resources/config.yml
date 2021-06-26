@@ -1,0 +1,4 @@
+## This plugin was written by Robert Kratz on June 15. 2021
+
+spawnprotection: 1200
+no-pvp: '&cYou cant damage this player because you just killed him recently'
